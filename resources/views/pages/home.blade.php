@@ -8,7 +8,7 @@
         <section class="relative mb-6">
           <img
             class="w-full h-96 object-cover"
-            src="https://source.unsplash.com/1600x900/?recipe"
+            src="https://picsum.photos/1600/900"
             alt="Featured Recipe Image"
           />
           <div
@@ -49,7 +49,7 @@
             >
               <img
                 class="w-full h-48 object-cover"
-                src="https://source.unsplash.com/480x360/?recipe"
+                src="https://picsum.photos/480/360?random=1"
                 alt="Recipe Image"
               />
               <div class="p-4">
@@ -82,7 +82,7 @@
             >
               <img
                 class="w-full h-48 object-cover"
-                src="https://source.unsplash.com/480x360/?recipe"
+                src="https://picsum.photos/480/360?random=2"
                 alt="Recipe Image"
               />
               <div class="p-4">
@@ -114,7 +114,7 @@
             >
               <img
                 class="w-full h-48 object-cover"
-                src="https://source.unsplash.com/480x360/?recipe"
+                src="https://picsum.photos/480/360?random=3"
                 alt="Recipe Image"
               />
               <div class="p-4">
@@ -149,7 +149,7 @@
           <div class="flex items-center mb-6">
             <!-- User Avatar -->
             <img
-              src="https://source.unsplash.com/300x300/?portrait"
+              src="https://picsum.photos/300/300"
               alt="Nom de l'utilisateur"
               class="w-24 h-24 rounded-full border-4 border-yellow-500 mr-4"
             />
@@ -184,7 +184,7 @@
                 class="bg-gray-800 rounded-lg overflow-hidden shadow-lg relative"
               >
                 <img
-                  src="https://source.unsplash.com/480x360/?recipe"
+                  src="https://picsum.photos/480/360?random=4"
                   alt="Recipe Name"
                   class="w-full h-48 object-cover"
                 />
@@ -212,7 +212,7 @@
                 class="bg-gray-800 rounded-lg overflow-hidden shadow-lg relative"
               >
                 <img
-                  src="https://source.unsplash.com/480x360/?recipe"
+                  src="https://picsum.photos/480/360?random=5"
                   alt="Recipe Name"
                   class="w-full h-48 object-cover"
                 />
